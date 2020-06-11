@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const RestorantShowScreen = () => {
    return (
       <View>
-         <Text>Results Show</Text>
+         <Text>Results Sh ow</Text>
       </View>
    );
 };
